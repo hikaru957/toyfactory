@@ -1,2 +1,2 @@
 # toyfactory
-for kid
+for kid..
